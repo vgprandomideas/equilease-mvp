@@ -1,1 +1,4 @@
-﻿Collecting plotly@ streamlit==1.29.0pandas==2.1.0numpy==1.24.3plotly==5.17.0@
+﻿streamlit>=1.28.0
+pandas>=2.0.0
+numpy>=1.24.0
+plotly>=5.15.0
